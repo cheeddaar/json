@@ -1,0 +1,178 @@
+[
+    {
+        "id": "1",
+        "nombre": "brimstone",
+        "rol": "controlador",
+        "descripcion": "Brimstone es un agente estadounidense con el rol de controlador, sus utilidades ayudan a potenciar a sus aliados y dividir el terreno peligroso. Fue de los primeros Controladores jugables desde la beta.",
+        "foto": "assets/img/Brimstone_icon.webp"
+    }
+    ,
+    {
+        "id": "2",
+        "nombre": "viper",
+        "rol": "controlador",
+        "descripcion": "Viper despliega varios artefactos químicos venenosos para controlar el campo de batalla y afectar la visión de los enemigos. Si las toxinas no asesinan a su presa, sin duda lo harán sus juegos mentales.",
+        "foto": "assets/img/Viper_icon.webp"
+    }
+    ,
+    {
+        "id": "3",
+        "nombre": "omen",
+        "rol": "controlador",
+        "descripcion": "Un hombre con orígenes misteriosos, Omen se enfoca en obstaculizar la visión de sus enemigos con cosas como un orbe que golpea a los que están en su mira con miopía y otro que estalla para oscurecer la visión de todos los que están cerca. También puede teletransportarse a corta distancia o usar su habilidad definitiva para teletransportarse a cualquier parte del mapa como una sombra.",
+        "foto": "assets/img/Omen_icon.webp"
+    }
+    ,
+    {
+        "id": "4",
+        "nombre": "killjoy",
+        "rol": "centinela",
+        "descripcion": "Klara Böhringer es una inventora de Alemania que nació de un padre con ascendencia germánica. Böhringer, nominada para el premio Inventor Distinguido, se convirtió en la líder del departamento de I+D de Kingdom a la edad de 18 años. Increíblemente exitosa, tuvo muchos avances durante su tiempo en Kingdom con varias de sus creaciones e innovaciones.",
+        "foto": "assets/img/Killjoy_icon.webp"
+    }
+    ,
+    {
+        "id": "5",
+        "nombre": "cypher",
+        "rol": "centinela",
+        "descripcion": "Cypher se especializa en conseguir informacion de los enemigos y es capaz de asegurar una area. No hay secreto a salvo ni maniobra que pase desapercibida. Cypher siempre está viendo.",
+        "foto": "assets/img/Cypher_icon.webp"
+    }
+    ,
+    {
+        "id": "6",
+        "nombre": "sova",
+        "rol": "iniciador",
+        "descripcion": "Sova rastrea, encuentra y elimina a sus enemigos con gran eficiencia y precisión. Su arco personalizado y sus increíbles habilidades de exploración impedirán que sus enemigos puedan esconderse de él.",
+        "foto": "assets/img/Sova_icon.webp"
+    }
+    ,
+    {
+        "id": "7",
+        "nombre": "sage",
+        "rol": "centinela",
+        "descripcion": "Sage destaca a la hora de crear espacios para su equipo allá donde va. Sus capacidades especiales para revivir a compañeros caídos en batalla y para mantener a raya los asaltos enemigos la convierten en la calma en mitad de la tormenta para su equipo.",
+        "foto": "assets/img/Sage_icon.webp"
+    }
+    ,
+    {
+        "id": "8",
+        "nombre": "phoenix",
+        "rol": "duelista",
+        "descripcion": "Los poderes estelares de Phoenix salen a relucir con su estilo de combate, que prende fuego al campo de batalla de forma deslumbrante. Con apoyo o en solitario, él es quien decide cuándo y cómo se lucha.",
+        "foto": "assets/img/Phoenix_icon.webp"
+    }
+    ,
+    {
+        "id": "9",
+        "nombre": "jett",
+        "rol": "duelista",
+        "descripcion": "El estilo de lucha ágil y evasivo de Jett le permite asumir grandes riesgos. En las refriegas, recorre el terreno en círculos y hace trizas a los enemigos con una rapidez espectacular.",
+        "foto": "assets/img/Jett_icon.webp"
+    }
+    ,
+    {
+        "id": "10",
+        "nombre": "reyna",
+        "rol": "duelista",
+        "descripcion": "Reyna toma lo que quiere cuando lo quiere, sin importar quién se interponga en su camino. Salvaje y casi animal, no es de las que dudan cuando se trata de eliminar a sus enemigos y mancharse las manos de sangre.",
+        "foto": "assets/img/Reyna_icon.webp"
+    }
+    ,
+    {
+        "id": "11",
+        "nombre": "raze",
+        "rol": "duelista",
+        "descripcion": "A Raze le encantan los explosivos. Con su estilo de juego basado en la fuerza bruta, destaca a la hora de barrer a grupos de enemigos atrincherados y de despejar áreas estrechas con explosivos y sin compasión.",
+        "foto": "assets/img/Raze_icon.webp"
+    }
+    ,
+    {
+        "id": "12",
+        "nombre": "breach",
+        "rol": "iniciador",
+        "descripcion": "Agente iniciador traído desde de Suecia con extensiones robóticas que aturden a los enemigos (y aliados si no se usa bien)",
+        "foto": "assets/img/Breach_icon.webp"
+    }
+    ,
+    {
+        "id": "13",
+        "nombre": "skye",
+        "rol": "iniciador",
+        "descripcion": "Provenientes de Australia, Skye y su banda de bestias abren camino a través de territorio hostil. Con sus creaciones obstaculizando al enemigo y su poder para curar a otros, el equipo es más fuerte y seguro al lado de Skye.",
+        "foto": "assets/img/Skye_icon.webp"
+    }
+    ,
+    {
+        "id": "14",
+        "nombre": "yoru",
+        "rol": "duelista",
+        "descripcion": "El nativo japonés Yoru abre agujeros directamente a través de la realidad para infiltrarse en las líneas enemigas sin ser visto. Usando el engaño y la agresión en la misma medida, logra caer sobre cada objetivo antes de que sepan dónde mirar.",
+        "foto": "assets/img/Yoru_icon.webp"
+    }
+    ,
+    {
+        "id": "15",
+        "nombre": "astra",
+        "rol": "controlador",
+        "descripcion": "La agente ghanesa Astra aprovecha las energías del cosmos para remodelar los campos de batalla a su antojo. Con pleno dominio de su forma astral y un talento para la previsión estratégica profunda, siempre está eones por delante del próximo movimiento de su enemigo.",
+        "foto": "assets/img/Astra_icon.webp"
+    }
+    ,
+    {
+        "id": "16",
+        "nombre": "kay/0",
+        "rol": "iniciador",
+        "descripcion": "KAY/O es una máquina de guerra construida con un solo propósito: neutralizar los radiantes. Su poder para suprimir las habilidades enemigas desmantela la capacidad de sus oponentes para contraatacar, asegurándoles a él y a sus aliados la máxima ventaja",
+        "foto": "assets/img/KAYO_icon.webp"
+    }
+    ,
+    {
+        "id": "17",
+        "nombre": "chamber",
+        "rol": "centinela",
+        "descripcion": "Bien vestido y bien armado, el diseñador de armas francés Chamber expulsa a los agresores con una precisión letal. Aprovecha su arsenal personalizado para mantener la línea y eliminar enemigos desde lejos, con una contingencia creada para cada plan.",
+        "foto": "assets/img/Chamber_icon.webp"
+    }
+    ,
+    {
+        "id": "18",
+        "nombre": "neon",
+        "rol": "duelista",
+        "descripcion": "La agente filipina, Neon, avanza a velocidades sorprendentes, descargando ráfagas de radiación bioeléctrica tan rápido como su cuerpo las genera. Ella corre para atrapar a los enemigos con la guardia baja y luego los derriba más rápido que un rayo.",
+        "foto": "assets/img/Neon_icon.webp"
+    }
+    ,
+    {
+        "id": "19",
+        "nombre": "fade",
+        "rol": "iniciador",
+        "descripcion": "La cazarrecompensas turca Fade desata el poder de la cruda pesadilla para apoderarse de los secretos enemigos. Sintonizada con el terror mismo, persigue objetivos y revela sus miedos más profundos, antes de aplastarlos en la oscuridad.",
+        "foto": "assets/img/Fade_icon.webp"
+    }
+    ,
+    {
+        "id": "20",
+        "nombre": "harbor",
+        "rol": "controlador",
+        "descripcion": "Proveniente de la costa de la India, Harbour asalta el campo empuñando tecnología antigua con dominio sobre el agua. Desata rápidos espumosos y olas aplastantes para proteger a sus aliados o aplastar a los que se le oponen.",
+        "foto": "assets/img/Harbor_icon.webp"
+    }
+    ,
+    {
+        "id": "21",
+        "nombre": "gekko",
+        "rol": "iniciador",
+        "descripcion": "Gekko the Angeleno lidera un equipo muy unido de criaturas calamitosas. Sus amigos avanzaron, dispersando a los enemigos fuera del camino, con Gekko persiguiéndolos para reagruparse y volver.",
+        "foto": "assets/img/Gekko_icon.webp"
+    }
+    ,
+    {
+        "id": "22",
+        "nombre": "deadlock",
+        "rol": "centinela",
+        "descripcion": "El agente noruego Deadlock despliega una serie de nanocables de última generación para proteger el campo de batalla incluso del ataque más letal. Nadie escapa a su vigilancia, ni sobrevive.",
+        "foto": "assets/img/Deadlock_icon.webp"
+    }
+    ]
+    
